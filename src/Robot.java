@@ -13,6 +13,7 @@ public class Robot
         SolveMaze(0,0);
 
         System.out.print(Count);
+        
     }
 
     private  static void SolveMaze(int x , int y)
