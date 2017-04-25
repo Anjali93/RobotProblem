@@ -7,8 +7,7 @@ public class Robot
         for (int i =0 ; i < 4 ; i++)
         {
             for (int j =0 ; j < 4 ; j++)
-                Grid[i][j] = 0; //comment
-        }
+                Grid[i][j] = 0; // final comment        }
 
         SolveMaze(0,0);
 
